@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.651c024f.css",
+    "main.js": "/static/js/main.16f1e26c.js",
+    "static/js/453.1b0d4a06.chunk.js": "/static/js/453.1b0d4a06.chunk.js",
+    "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/Bombonera.jpg": "/static/media/Bombonera.174ea67accb8819774cb.jpg",
+    "static/media/CyclisticLogo.png": "/static/media/CyclisticLogo.ed8ac59b128fd849bbb1.png",
+    "index.html": "/index.html",
+    "main.651c024f.css.map": "/static/css/main.651c024f.css.map",
+    "main.16f1e26c.js.map": "/static/js/main.16f1e26c.js.map",
+    "453.1b0d4a06.chunk.js.map": "/static/js/453.1b0d4a06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.651c024f.css",
+    "static/js/main.16f1e26c.js"
+  ]
+}
